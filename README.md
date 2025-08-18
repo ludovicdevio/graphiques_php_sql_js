@@ -32,7 +32,8 @@ bd/
 - Le style est personnalisable via `style.css`.
 
 ## Auteur
-Ludovic Dev
+**Ludovic** - [ludovicdevio](https://github.com/ludovicdevio)
+
 
 ## Licence
 Ce projet est open source, libre d'utilisation et de modification.
