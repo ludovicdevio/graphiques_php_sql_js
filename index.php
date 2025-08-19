@@ -15,7 +15,7 @@
       <?php
       $db_host = 'localhost';
       $db_user = 'root';
-      $pwd = 'coolfyfer';
+      $pwd = '';
       $db_name = 'gestion_students';
       $conn = new mysqli($db_host, $db_user, $pwd, $db_name);
 
